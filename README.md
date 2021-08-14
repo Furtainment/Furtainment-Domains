@@ -31,6 +31,8 @@ Not all domains are active or have a website, if that is the case they are liste
 • support.furshows.org | Redirect</br>
 • gallery.furshows.com | Redirect</br>
 • gallery.furshows.org</br>
+• marketplace.furshows.com | Redirect</br>
+• marketplace.furshows.org</br>
 • store.furshows.org</br>
 • press.furshows.org</br>
 • status.fursho.ws</br>
