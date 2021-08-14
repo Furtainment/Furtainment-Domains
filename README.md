@@ -2,6 +2,8 @@
 A list of FurShows owned and operated domain names.
 Not all domains are active or have a website, if that is the case they are listed here to show they are planned to be rolled out.
 
+Redirects are there to ensure mistyped traffic continues to flow to the correct domain extension.
+
 • furshows.com</br>
 • furshows.org</br>
 • fursho.ws | Private URL Shortener Service</br>
