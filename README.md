@@ -472,9 +472,128 @@ Not all domains are active or have a website, if that is the case they are liste
 • pw.furshows.org | Palau</br>
 • py.furshows.com | Paraguay Redirect</br>
 • py.furshows.org | Paraguay</br>
-
-• jp.furshows.com | Redirect</br>
-• jp.furshows.org</br>
+• qa.furshows.com | Qatar Redirect</br>
+• qa.furshows.org | Qatar</br>
+• re.furshows.com | Réunion Redirect</br>
+• re.furshows.org | Réunion</br>
+• ro.furshows.com | Romania Redirect</br>
+• ro.furshows.org | Romania</br>
+• rs.furshows.com | Serbia Redirect</br>
+• rs.furshows.org | Serbia</br>
+• ru.furshows.com | Russia Redirect</br>
+• ru.furshows.org | Russia</br>
+• rw.furshows.com | Rwanda Redirect</br>
+• rw.furshows.org | Rwanda</br>
+• sa.furshows.com | Saudi Arabia Redirect</br>
+• sa.furshows.org | Saudi Arabia</br>
+• sb.furshows.com | Solomon Islands Redirect</br>
+• sb.furshows.org | Solomon Islands</br>
+• sc.furshows.com | Seychelles Redirect</br>
+• sc.furshows.org | Seychelles</br>
+• sd.furshows.com | Sudan Redirect</br>
+• sd.furshows.org | Sudan</br>
+• se.furshows.com | Sweden Redirect</br>
+• se.furshows.org | Sweden </br>
+• sg.furshows.com | Singapore Redirect</br>
+• sg.furshows.org | Singapore</br>
+• sh.furshows.com | Saint Helena Redirect</br>
+• sh.furshows.org | Saint Helena</br>
+• si.furshows.com | Slovenia Redirect</br>
+• si.furshows.org | Slovenia</br>
+• sk.furshows.com | Slovakia Redirect</br>
+• sk.furshows.org | Slovakia</br>
+• sl.furshows.com | Sierra Leone Redirect</br>
+• sl.furshows.org | Sierra Leone</br>
+• sm.furshows.com | San Marino Redirect</br>
+• sm.furshows.org | San Marino</br>
+• sn.furshows.com | Senegal Redirect</br>
+• sn.furshows.org | Senegal</br>
+• so.furshows.com | Somalia Redirect</br>
+• so.furshows.org | Somalia</br>
+• sr.furshows.com | Suriname Redirect</br>
+• sr.furshows.org | Suriname</br>
+• ss.furshows.com | South Sudan Redirect</br>
+• ss.furshows.org | South Sudan</br>
+• st.furshows.com | São Tomé and Príncipe Redirect</br>
+• st.furshows.org | São Tomé and Príncipe</br>
+• sv.furshows.com | El Salvador Redirect</br>
+• sv.furshows.org | El Salvador</br>
+• sx.furshows.com | Sint Marteen Redirect</br>
+• sx.furshows.org | Sint Marteen</br>
+• sy.furshows.com | Syria Redirect</br>
+• sy.furshows.org | Syria</br>
+• sz.furshows.com | Eswatini Redirect</br>
+• sz.furshows.org | Eswatini</br>
+• tc.furshows.com | Turks and Caicos Islands Redirect</br>
+• tc.furshows.org | Turks and Caicos Islands</br>
+• td.furshows.com | Chad Redirect</br>
+• td.furshows.org | Chad</br>
+• tf.furshows.com | French Southern and Antarctic Lands Territory Redirect</br>
+• tf.furshows.org | French Southern and Antarctic Lands Territory</br>
+• tg.furshows.com | Togo Redirect</br>
+• tg.furshows.org | Togo</br>
+• th.furshows.com | Thailand Redirect</br>
+• th.furshows.org | Thailand</br>
+• tj.furshows.com | Tajikistan Redirect</br>
+• tj.furshows.org | Tajikistan</br>
+• tk.furshows.com | Tokelau Redirect</br>
+• tk.furshows.org | Tokelau</br>
+• tl.furshows.com | East Timor Redirect</br>
+• tl.furshows.org | East Timor</br>
+• tm.furshows.com | Turkmenistan Redirect</br>
+• tm.furshows.org | Turkmenistan</br>
+• tn.furshows.com | Tunisia Redirect</br>
+• tn.furshows.org | Tunisia</br>
+• to.furshows.com | Tonga Redirect</br>
+• to.furshows.org | Tonga</br>
+• tr.furshows.com | Turkey Redirect</br>
+• tr.furshows.org | Turkey</br>
+• tt.furshows.com | Trinidad and Tobago Redirect</br>
+• tt.furshows.org | Trinidad and Tobago</br>
+• tv.furshows.com | Tuvalu Redirect</br>
+• tv.furshows.org | Tuvalu</br>
+• tw.furshows.com | Taiwan Redirect</br>
+• tw.furshows.org | Taiwan</br>
+• tz.furshows.com | Tanzania Redirect</br>
+• tz.furshows.org | Tanzania</br>
+• ua.furshows.com | Ukraine Redirect</br>
+• ua.furshows.org | Ukraine</br>
+• ug.furshows.com | Uganda Redirect</br>
+• ug.furshows.org | Uganda</br>
+• uk.furshows.com | United Kingdom Redirect</br>
+• uk.furshows.org | United Kingdom</br>
+• us.furshows.com | United States of America Redirect</br>
+• us.furshows.org | United States of America</br>
+• uy.furshows.com | Uruguay Redirect</br>
+• uy.furshows.org | Uruguay</br>
+• uz.furshows.com | Uzbekistan Redirect</br>
+• uz.furshows.org | Uzbekistan</br>
+• vc.furshows.com | Saint Vincent and the Grenadines Redirect</br>
+• vc.furshows.org | Saint Vincent and the Grenadines</br>
+• ve.furshows.com | Venezuela Redirect</br>
+• ve.furshows.org | Venezuela</br>
+• vg.furshows.com | Virgin Islands Redirect</br>
+• vg.furshows.org | Virgin Islands</br>
+• vi.furshows.com | United States Virgin Islands Redirect</br>
+• vi.furshows.org | United States Virgin Islands</br>
+• vn.furshows.com | Vietnam Redirect</br>
+• vn.furshows.org | Vietnam</br>
+• vu.furshows.com | Vanuatu Redirect</br>
+• vu.furshows.org | Vanuatu</br>
+• wf.furshows.com | Wallis and Futuna Islands Redirect</br>
+• wf.furshows.org | Wallis and Futuna Islands</br>
+• ws.furshows.com | Samoa Redirect</br>
+• ws.furshows.org | Samoa</br>
+• ye.furshows.com | Yemen Redirect</br>
+• ye.furshows.org | Yemen</br>
+• yt.furshows.com | Mayotte Redirect</br>
+• yt.furshows.org | Mayotte</br>
+• za.furshows.com | South Africa Redirect</br>
+• za.furshows.org | South Africa</br>
+• zm.furshows.com | Zambia Redirect</br>
+• zm.furshows.org | Zambia</br>
+• zw.furshows.com | Zimbabwe Redirect</br>
+• zw.furshows.org | Zimbabwe</br>
 
 # Subsidiaries:
 
