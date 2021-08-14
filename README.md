@@ -11,9 +11,9 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • furshows.chat</br>
 • furshows.games</br>
 • furshows.directory</br>
-• furshow.directory</br>
-• furshow.stream</br>
-• furshows.stream | Redirect</br>
+• furshow.directory | Redirect</br>
+• furshow.stream | Redirect</br>
+• furshows.stream</br>
 • furryshows.com | Redirect</br>
 
 
