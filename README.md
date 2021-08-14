@@ -144,7 +144,102 @@ Not all domains are active or have a website, if that is the case they are liste
 • fo.furshows.org | Faroe Islands</br>
 • fr.furshows.com | France Redirect</br>
 • fr.furshows.org | France</br>
-
+• ga.furshows.com | Gabon Redirect</br>
+• ga.furshows.org | Gabon </br>
+• gd.furshows.com | Grenada Redirect</br>
+• gd.furshows.org | Grenada</br>
+• ge.furshows.com | Georgia Redirect</br>
+• ge.furshows.org | Georgia</br>
+• gf.furshows.com | French Guiana Redirect</br>
+• gf.furshows.org | French Guiana</br>
+• gg.furshows.com | Bailiwick of Guernsey Redirect</br>
+• gg.furshows.org | Bailiwick of Guernsey</br>
+• gh.furshows.com | Ghana Redirect</br>
+• gh.furshows.org | Ghana </br>
+• gi.furshows.com | Gibraltar Redirect</br>
+• gi.furshows.org | Gibraltar</br>
+• gl.furshows.com | Greenland Redirect</br>
+• gl.furshows.org | Greenland</br>
+• gm.furshows.com | The Gambia Redirect</br>
+• gm.furshows.org | The Gambia</br>
+• gn.furshows.com | Guinea Redirect</br>
+• gn.furshows.org | Guinea</br>
+• gp.furshows.com | Guadeloupe Redirect</br>
+• gp.furshows.org | Guadeloupe</br>
+• gq.furshows.com | Equatorial Guinea Redirect</br>
+• gq.furshows.org | Equatorial Guinea</br>
+• gr.furshows.com | Greece Redirect</br>
+• gr.furshows.org | Greece</br>
+• gs.furshows.com | South Georgia and South Sandwich Islands Redirect</br>
+• gs.furshows.org | South Georgia and South Sandwich Islands</br>
+• gt.furshows.com | Guatemala Redirect</br>
+• gt.furshows.org | Guatemala</br>
+• gu.furshows.com | GuamRedirect</br>
+• gu.furshows.org | Guam</br>
+• gw.furshows.com | Guinea-Bissau Redirect</br>
+• gw.furshows.org | Guinea-Bissau</br>
+• gy.furshows.com | Guyana Redirect</br>
+• gy.furshows.org | Guyana</br>
+• hk.furshows.com | Hong Kong Redirect</br>
+• hk.furshows.org | Hong Kong</br>
+• hm.furshows.com | Heard and McDonald Islands Redirect</br>
+• hm.furshows.org | Heard and McDonald Islands</br>
+• hn.furshows.com | Honduras Redirect</br>
+• hn.furshows.org | Honduras</br>
+• hr.furshows.com | Croatia Redirect</br>
+• hr.furshows.org | Croatia</br>
+• ht.furshows.com | Haiti Redirect</br>
+• ht.furshows.org | Haiti</br>
+• hu.furshows.com | Hungary Redirect</br>
+• hu.furshows.org | Hungary</br>
+• id.furshows.com | Indonesia Redirect</br>
+• id.furshows.org | Indonesia</br>
+• ie.furshows.com | Ireland Redirect</br>
+• ie.furshows.org | Ireland</br>
+• il.furshows.com | Israel Redirect</br>
+• il.furshows.org | Israel</br>
+• im.furshows.com | Isle of Man Redirect</br>
+• im.furshows.org | Isle of Man</br>
+• in.furshows.com | India Redirect</br>
+• in.furshows.org | India</br>
+• io.furshows.com | British Indian Ocean Territory Redirect</br>
+• io.furshows.org | British Indian Ocean Territory Redirect</br>
+• iq.furshows.com | Iraq Redirect</br>
+• iq.furshows.org | Iraq </br>
+• ir.furshows.com | Iran Redirect</br>
+• ir.furshows.org | Iran</br>
+• is.furshows.com | Iceland Redirect</br>
+• is.furshows.org | Iceland</br>
+• it.furshows.com | Italy Redirect</br>
+• it.furshows.org | Italy</br>
+• je.furshows.com | Jersey Redirect</br>
+• je.furshows.org | Jersey</br>
+• jm.furshows.com | Jamaica Redirect</br>
+• jm.furshows.org | Jamaica</br>
+• jo.furshows.com | Jordan Redirect</br>
+• jo.furshows.org | Jordan</br>
+• jp.furshows.com | Japan Redirect</br>
+• jp.furshows.org | Japan</br>
+• ke.furshows.com | Kenya Redirect</br>
+• ke.furshows.org | Kenya</br>
+• kg.furshows.com | Kyrgyzstan Redirect</br>
+• kg.furshows.org | Kyrgyzstan</br>
+• kh.furshows.com | Cambodia Redirect</br>
+• kh.furshows.org | Cambodia</br>
+• ki.furshows.com | Kiribati Redirect</br>
+• ki.furshows.org | Kiribati</br>
+• km.furshows.com | Comoros Redirect</br>
+• km.furshows.org | Comoros</br>
+• kn.furshows.com | Saint Kitts and Nevis Redirect</br>
+• kn.furshows.org | Saint Kitts and Nevis</br>
+• kp.furshows.com | North Korea Redirect</br>
+• kp.furshows.org | North Korea</br>
+• kr.furshows.com | Republic of Korea (South Korea) Redirect</br>
+• kr.furshows.org | Republic of Korea (South Korea)</br>
+• ky.furshows.com | Cayman Islands (United Kingdom) Redirect</br>
+• ky.furshows.org | Cayman Islands (United Kingdom)</br>
+• kz.furshows.com | Kazakhstan Redirect</br>
+• kz.furshows.org | Kazakhstan</br>
 
 
 • jp.furshows.com | Redirect</br>
