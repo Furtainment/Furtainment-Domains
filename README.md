@@ -17,14 +17,20 @@ Not all domains are active or have a website, if that is the case they are liste
 
 # Subdomains:
 
+• blog.furshows.com | Redirect</br>
+• blog.furshows.org</br>
+• api.furshows.com | Redirect</br>
+• api.furshows.org</br>
 • search.furshows.com | Redirect</br>
+• search.furshows.org</br>
 • gallery.furshows.com | Redirect</br>
 • store.furshows.com | Redirect</br>
 • shop.furshows.com | Redirect</br>
 • shop.furshows.org | Redirect</br>
 • store.furshows.com | Redirect</br>
+• store.furshows.org</br>
 • press.furshows.com | Redirect</br>
-• search.furshows.com | Redirect</br>
+• press.furshows.org</br>
 • status.furshows.com | Redirect</br>
 • status.furshows.org | Redirect</br>
 • support.furshows.com | Redirect</br>
@@ -33,8 +39,6 @@ Not all domains are active or have a website, if that is the case they are liste
 • gallery.furshows.org</br>
 • marketplace.furshows.com | Redirect</br>
 • marketplace.furshows.org</br>
-• store.furshows.org</br>
-• press.furshows.org</br>
 • status.fursho.ws</br>
 • support.fursho.ws</br>
 
@@ -597,7 +601,7 @@ Not all domains are active or have a website, if that is the case they are liste
 
 # Subsidiaries:
 
-• glowraiser.com</br>
+• glowraiser.com | Redirect</br>
 • glowraiser.org</br>
 
 • furportal.news</br>
