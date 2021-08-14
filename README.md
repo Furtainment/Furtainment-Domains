@@ -4,7 +4,7 @@ Not all domains are active or have a website, if that is the case they are liste
 
 • furshows.com</br>
 • furshows.org</br>
-• fursho.ws | URl Shortner Service</br>
+• fursho.ws | Private URL Shortener Service</br>
 • furshow.chat | Redirect</br>
 • furshows.chat</br>
 • furshows.games</br>
