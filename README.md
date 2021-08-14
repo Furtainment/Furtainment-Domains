@@ -23,8 +23,8 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • login.furshows.org</br>
 • register.furshows.com | Redirect</br>
 • register.furshows.org</br>
-• my.furshows.com | Redirect</br>
-• my.furshows.org</br>
+• dashboard.furshows.com | Redirect</br>
+• dashboard.furshows.org</br>
 • blog.furshows.com</br>
 • blog.furshows.org | Redirect</br>
 • api.furshows.com | Redirect</br>
