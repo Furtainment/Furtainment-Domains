@@ -1,29 +1,29 @@
 # FurShows-Domains
 A list of FurShows owned and operated domain names.
 
-furshows.com
-furshows.org
-fursho.ws
-furshows.chat
-furshow.chat
-furshows.directory
-furshow.directory
-furshows.stream
-furshow.stream
+• furshows.com</br>
+• furshows.org</br>
+• fursho.ws</br>
+• furshows.chat</br>
+• furshow.chat</br>
+• furshows.directory</br>
+• furshow.directory</br>
+• furshows.stream</br>
+• furshow.stream</br>
 
 
-Subdomains:
+# Subdomains:
 
-jp.furshows.com
-jp.furshows.org
+• jp.furshows.com</br>
+• jp.furshows.org</br>
 
-Subsidiaries:
+# Subsidiaries:
 
-glowraiser.com
-glowraiser.org
+• glowraiser.com</br>
+• glowraiser.org</br>
 
-furportal.news
+• furportal.news</br>
 
-Software
+# Software
 
-viewerverse.com
+• viewerverse.com</br>
