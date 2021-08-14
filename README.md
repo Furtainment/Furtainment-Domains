@@ -17,8 +17,14 @@ Not all domains are active or have a website, if that is the case they are liste
 
 # Subdomains:
 
-• blog.furshows.com | Redirect</br>
-• blog.furshows.org</br>
+• login.furshows.com | Redirect</br>
+• login.furshows.org</br>
+• register.furshows.com | Redirect</br>
+• register.furshows.org</br>
+• my.furshows.com | Redirect</br>
+• my.furshows.org</br>
+• blog.furshows.com</br>
+• blog.furshows.org | Redirect</br>
 • api.furshows.com | Redirect</br>
 • api.furshows.org</br>
 • search.furshows.com | Redirect</br>
