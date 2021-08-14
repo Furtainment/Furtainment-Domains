@@ -27,6 +27,8 @@ Not all domains are active or have a website, if that is the case they are liste
 • blog.furshows.org | Redirect</br>
 • api.furshows.com | Redirect</br>
 • api.furshows.org</br>
+• investor.furshows.com</br>
+• investor.furshows.org | Redirect</br>
 • search.furshows.com | Redirect</br>
 • search.furshows.org</br>
 • gallery.furshows.com | Redirect</br>
