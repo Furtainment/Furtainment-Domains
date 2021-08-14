@@ -12,6 +12,7 @@ Not all domains are active or have a website, if that is the case they are liste
 • furshow.directory</br>
 • furshow.stream</br>
 • furshows.stream | Redirect</br>
+• furryshows.com | Redirect</br>
 
 
 # Subdomains:
