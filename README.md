@@ -14,6 +14,12 @@ A list of FurShows owned and operated domain names.
 
 # Subdomains:
 
+• search.furshows.com</br>
+• gallery.furshows.com</br>
+• search.furshows.com</br>
+• press.furshows.com</br>
+• status.fursho.ws</br>
+• support.fursho.ws</br>
 • jp.furshows.com</br>
 • jp.furshows.org</br>
 
