@@ -49,6 +49,8 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • support.furshows.org | Redirect</br>
 • gallery.furshows.com | Redirect</br>
 • gallery.furshows.org</br>
+• market.furshows.com | Redirect</br>
+• market.furshows.org | Redirect</br>
 • marketplace.furshows.com | Redirect</br>
 • marketplace.furshows.org</br>
 • kids.furshows.com | Redirect</br>
