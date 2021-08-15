@@ -26,6 +26,8 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • dashboard.furshows.com | Redirect</br>
 • dashboard.furshows.org</br>
 • partner.furshows.com</br>
+• opensource.furshows.org | Redirect</br>
+• opensource.furshows.com</br>
 • partner.furshows.org | Redirect</br>
 • blog.furshows.com</br>
 • blog.furshows.org | Redirect</br>
