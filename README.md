@@ -7,6 +7,7 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • furshows.com</br>
 • furshows.org</br>
 • fursho.ws | Private URL Shortener Service</br>
+• fsh.email | Team onboarding email</br>
 • furshow.chat | Redirect</br>
 • furshows.chat</br>
 • furshows.games</br>
