@@ -508,6 +508,9 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • glowraiser.com | Redirect</br>
 • glowraiser.org</br>
 
+• snackferret.com | Redirect</br>
+• snackferret.studio</br>
+
 • furportal.news</br>
 
 # Software
