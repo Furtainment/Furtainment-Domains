@@ -11,6 +11,7 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • furshow.chat | Redirect</br>
 • furshows.chat</br>
 • furshows.games</br>
+• labefy.com</br>
 • furshows.directory</br>
 • furshow.directory | Redirect</br>
 • furshow.stream | Redirect</br>
@@ -512,4 +513,6 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 # Software
 
 • viewerverse.com</br>
+• viewerverse.world</br>
+• vrver.se</br>
 • furry.observer</br>
