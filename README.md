@@ -8,14 +8,9 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • furshows.org</br>
 • fursho.ws | Private URL Shortener Service</br>
 • fsh.email | Team onboarding email</br>
-• furshow.chat | Redirect</br>
-• furshows.chat</br>
 • furshows.games</br>
 • labefy.com</br>
-• furshows.directory</br>
-• furshow.directory | Redirect</br>
-• furshow.stream | Redirect</br>
-• furshows.stream</br>
+• labefygames.com</br>
 • furryshows.com | Redirect</br>
 
 
@@ -511,7 +506,7 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • snackferret.com | Redirect</br>
 • snackferret.studio</br>
 
-• furportal.news</br>
+• furportal.net</br>
 
 # Software
 
@@ -519,3 +514,14 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • viewerverse.world</br>
 • vrver.se</br>
 • furry.observer</br>
+
+# Shows
+
+• blackbagbureau.com</br>
+• darkspecies.com</br>
+• fruitytails.com</br>
+• gizmosduck.com</br>
+• hammersmithmaiden.com</br>
+• santasteamer.com</br>
+• strawberrywarlord.com</br>
+• paromorphs.com</br>
