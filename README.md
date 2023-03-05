@@ -520,6 +520,7 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 
 • blackbagbureau.com</br>
 • darkspecies.com</br>
+• fruitytail.com | Redirect</br>
 • fruitytails.com</br>
 • gizmosduck.com</br>
 • hammersmithmaiden.com</br>
