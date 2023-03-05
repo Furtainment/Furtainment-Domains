@@ -5,18 +5,14 @@ Not all domains are active or have a website, if that is the case they are liste
 Redirects are there to ensure mistyped traffic continues to flow to the correct domain extension.
 
 • furtainment.com</br>
-• furshows.com</br>
-• furshows.org</br>
 • fursho.ws | Private URL Shortener Service</br>
 • fsh.email | Team onboarding email</br>
-• furshows.games</br>
-• labefy.com</br>
-• labefygames.com</br>
-• furryshows.com | Redirect</br>
-
 
 # Subdomains:
 
+• blog.furtainment.com</br>
+• press.furtainment.com</br>
+• jobs.furtainment.com</br>
 • login.furshows.com | Redirect</br>
 • login.furshows.org</br>
 • register.furshows.com | Redirect</br>
@@ -503,11 +499,15 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 
 • glowraiser.com | Redirect</br>
 • glowraiser.org</br>
-
 • snackferret.com | Redirect</br>
 • snackferret.studio</br>
-
 • furportal.net</br>
+• furryshows.com | Redirect</br>
+• furshows.com | Corporate</br>
+• furshows.org</br>
+• labefy.com | Corporate</br>
+• labefygames.com</br>
+• furshows.games</br>
 
 # Software
 
