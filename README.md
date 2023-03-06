@@ -12,7 +12,7 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 
 • blog.furtainment.com</br>
 • press.furtainment.com</br>
-• investor.furtainment.com</br>
+• investors.furtainment.com</br>
 • legal.furtainment.com</br>
 • jobs.furtainment.com</br>
 • login.furshows.com | Redirect</br>
