@@ -15,6 +15,7 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • investors.furtainment.com</br>
 • legal.furtainment.com</br>
 • jobs.furtainment.com</br>
+• archive.furtainment.com</br>
 • login.furshows.com | Redirect</br>
 • login.furshows.org</br>
 • register.furshows.com | Redirect</br>
