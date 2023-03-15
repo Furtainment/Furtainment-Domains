@@ -536,7 +536,7 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 
 # Reserved
 
-• arcticoutbreak.com.com</br>
+• arcticoutbreak.com</br>
 • eleventhclergy.com</br>
 • toyboxcapers.com</br>
 • paradiserust.com</br>
