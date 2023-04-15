@@ -5,6 +5,7 @@ Not all domains are active or have a website, if that is the case they are liste
 Redirects are there to ensure mistyped traffic continues to flow to the correct domain extension.
 
 • furtainment.com</br>
+• anthrostore.com | Furtainment Store</br>
 • fursho.ws | Private URL Shortener Service</br>
 • fsh.email | Team onboarding email</br>
 
