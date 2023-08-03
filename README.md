@@ -511,7 +511,6 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • furshows.org</br>
 • labefy.com | Corporate</br>
 • labefygames.com</br>
-• furshows.games</br>
 
 # Software
 
