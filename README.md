@@ -522,22 +522,22 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 
 # Shows
 
-• blackbagbureau.com</br>
-• darkspecies.com</br>
-• fruitytail.com | Redirect</br>
-• fruitytails.com</br>
-• gizmosduck.com</br>
-• hammersmithmaiden.com</br>
-• santasteamer.com</br>
-• strawberrywarlord.com</br>
-• paromorphs.com</br>
-• eleventhclergy.com</br>
-• toyboxcapers.com</br>
+• <a href="https://www.blackbagbureau.com">blackbagbureau.com</a></br>
+• <a href="https://www.darkspecies.com">darkspecies.com</a></br>
+• <a href="https://www.fruitytail.com">fruitytail.com</a> | Redirect</br>
+• <a href="https://www.fruitytails.com">fruitytails.com</a></br>
+• <a href="https://www.gizmosduck.com">gizmosduck.com</a></br>
+• <a href="https://www.hammersmithmaiden.com">hammersmithmaiden.com</a></br>
+• <a href="https://www.santasteamer.com">santasteamer.com</a></br>
+• <a href="https://www.strawberrywarlord.com">strawberrywarlord.com</a></br>
+• <a href="https://www.paromorphs.com">paromorphs.com</a></br>
+• <a href="https://www.eleventhclergy.com">eleventhclergy.com</a></br>
+• <a href="https://www.toyboxcapers.com">toyboxcapers.com</a></br>
 
 # Lab
-• kewllab.com</br>
+• <a href="https://www.kewllab.com">kewllab.com</a></br>
 
 # Movies
 
-• <a href="https://arcticoutbreak.com">arcticoutbreak.com</a></br>
-• <a href="https://paradiserust.com">paradiserust.com</br>
+• <a href="https://www.arcticoutbreak.com">arcticoutbreak.com</a></br>
+• <a href="https://www.paradiserust.com">paradiserust.com</br>
