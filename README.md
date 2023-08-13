@@ -4,10 +4,9 @@ Not all domains are active or have a website, if that is the case they are liste
 
 Redirects are there to ensure mistyped traffic continues to flow to the correct domain extension.
 
-• furtainment.com</br>
-• anthrostore.com | Furtainment Store</br>
-• fursho.ws | Private URL Shortener Service</br>
-• fsh.email | Team onboarding email</br>
+• <a href="https://furtainment.com">furtainment.com</a></br>
+• <a href="https://www.anthrostore.com">anthrostore.com</a> | Furtainment Store</br>
+• <a href="https://fsh.email">fsh.email</a> | Private Team Email</br>
 
 # Subdomains:
 
@@ -512,6 +511,10 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • labefy.com | Corporate</br>
 • labefygames.com</br>
 
+# Url Shortners
+• <a href="https://fursho.ws">fursho.ws</a> | Private URL Shortener Service</br>
+• <a href="https://fur.tel">fur.tel</a> | Private URL Shortener Service</br>
+
 # Software
 
 • viewerverse.com</br>
@@ -533,10 +536,10 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • <a href="https://www.eleventhclergy.com">eleventhclergy.com</a></br>
 • <a href="https://www.toyboxcapers.com">toyboxcapers.com</a></br>
 
-# Lab
-• <a href="https://www.kewllab.com">kewllab.com</a></br>
-
 # Movies
 
 • <a href="https://www.arcticoutbreak.com">arcticoutbreak.com</a></br>
 • <a href="https://www.paradiserust.com">paradiserust.com</br>
+
+# Lab
+• <a href="https://www.kewllab.com">kewllab.com</a></br>
