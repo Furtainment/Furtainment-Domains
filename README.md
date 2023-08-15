@@ -1,8 +1,9 @@
 # Furtainment-Domains
 A list of Furtainment owned and operated domain names.
-Not all domains are active or have a website, if that is the case they are listed here to show they are planned to be rolled out.
 
-Redirects are there to ensure mistyped traffic continues to flow to the correct domain extension.
+Not all domains or subdomains are active or have a website, if that is the case they are listed here to show they are planned to be rolled out.
+
+This document exists to ensure future 3rd party scripts, programs, and apps are able to function correctly and to enable greater trust of these domains in our developer ecosystem or on the wider web. Redirects are listed here to ensure mistyped traffic continues to flow to the correct domain extension.
 
 • <a href="https://furtainment.com">furtainment.com</a></br>
 • <a href="https://www.anthrostore.com">anthrostore.com</a> | Furtainment Store</br>
@@ -513,6 +514,7 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 
 # Shows
 
+• <a href="https://www.banjolia.com">banjolia.com</a></br>
 • <a href="https://www.blackbagbureau.com">blackbagbureau.com</a></br>
 • <a href="https://www.darkspecies.com">darkspecies.com</a></br>
 • <a href="https://www.gizmosduck.com">gizmosduck.com</a></br>
@@ -521,6 +523,7 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • <a href="https://www.strawberrywarlord.com">strawberrywarlord.com</a></br>
 • <a href="https://www.paromorphs.com">paromorphs.com</a></br>
 • <a href="https://www.eleventhclergy.com">eleventhclergy.com</a></br>
+• <a href="https://www.wanderingcart.com">wanderingcart.com</a></br>
 
 # Fruity Tails & Shows
 
