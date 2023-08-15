@@ -5,6 +5,8 @@ Not all domains or subdomains are active or have a website, if that is the case 
 
 This document exists to ensure future 3rd party scripts, programs, and apps are able to function correctly and to enable greater trust of these domains in our developer ecosystem or on the wider web. Redirects are listed here to ensure mistyped traffic continues to flow to the correct domain extension.
 
+Repository folders contain more infomation, scripts, and anything required for future developers.
+
 • <a href="https://furtainment.com">furtainment.com</a></br>
 • <a href="https://www.anthrostore.com">anthrostore.com</a> | Furtainment Store</br>
 • <a href="https://fsh.email">fsh.email</a> | Private Team Email</br>
