@@ -511,17 +511,6 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 • labefy.com | Corporate</br>
 • labefygames.com</br>
 
-# Url Shortners
-• <a href="https://fursho.ws">fursho.ws</a> | Private URL Shortener Service</br>
-• <a href="https://fur.tel">fur.tel</a> | Private URL Shortener Service</br>
-
-# Software
-
-• viewerverse.com</br>
-• viewerverse.world</br>
-• vrver.se</br>
-• furry.observer</br>
-
 # Shows
 
 • <a href="https://www.blackbagbureau.com">blackbagbureau.com</a></br>
@@ -543,3 +532,16 @@ Redirects are there to ensure mistyped traffic continues to flow to the correct 
 
 # Lab
 • <a href="https://www.kewllab.com">kewllab.com</a></br>
+
+# Url Shortners
+• <a href="https://fursho.ws">fursho.ws</a> | Private URL Shortener Service</br>
+• <a href="https://fur.tel">fur.tel</a> | Private URL Shortener Service</br>
+
+# Software
+
+• viewerverse.com</br>
+• viewerverse.world</br>
+• vrver.se</br>
+
+# Bots
+• furry.observer</br>
