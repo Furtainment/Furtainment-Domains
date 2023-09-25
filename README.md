@@ -530,6 +530,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://www.paromorphs.com">paromorphs.com</a></br>
 • <a href="https://www.eleventhclergy.com">eleventhclergy.com</a></br>
 • <a href="https://www.wanderingcart.com">wanderingcart.com</a></br>
+• <a href="https://www.battleevolved.com">battleevolved.com</a></br>
 
 # Fruity Tails & Shows
 
