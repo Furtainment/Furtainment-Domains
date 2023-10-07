@@ -511,8 +511,11 @@ Repository folders contain more infomation, scripts, and anything required for f
 • furryshows.com | Redirect</br>
 • furshows.com | Corporate</br>
 • furshows.org</br>
-• labefy.com | Corporate</br>
-• labefygames.com</br>
+
+# Labefy Games Subsidiary:
+
+• <a href="https://labefy.com">labefy.com</a> | Corporate</br>
+• <a href="https://labefygames.com">labefygames.com</a></br>
 
 # Stream
 
@@ -549,7 +552,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Url Shortners
 • <a href="https://fursho.ws">fursho.ws</a> | Private URL Shortener Service</br>
-• <a href="https://fur.tel">fur.tel</a> | Private URL Shortener Service</br>
+• <a href="https://www.fur.tel">fur.tel</a> | Private URL Shortener Service</br>
 
 # Software
 
