@@ -561,4 +561,4 @@ Repository folders contain more infomation, scripts, and anything required for f
 • vrver.se</br>
 
 # Bots
-• furry.observer</br>
+• <a href="https://furry.observer">furry.observer</a></br>
