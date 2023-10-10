@@ -9,7 +9,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 • <a href="https://furtainment.com">furtainment.com</a></br>
 • <a href="https://www.anthrostore.com">anthrostore.com</a> | Furtainment Store</br>
-• <a href="https://fsh.email">fsh.email</a> | Private Team Email</br>
+• <a href="https://fsh.email">fsh.email</a> | Internal Team Email</br>
 
 # Subdomains:
 
