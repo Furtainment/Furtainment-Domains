@@ -503,9 +503,9 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Subsidiaries:
 
-• glowraiser.com | Redirect</br>
+• glowraiser.com | Corporate</br>
 • glowraiser.org</br>
-• snackferret.com | Redirect</br>
+• snackferret.com | Corporate</br>
 • snackferret.studio</br>
 • furportal.net</br>
 • furryshows.com | Redirect</br>
