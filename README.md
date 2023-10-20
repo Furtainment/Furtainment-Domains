@@ -46,6 +46,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • store.furshows.org</br>
 • press.furshows.com | Redirect</br>
 • press.furshows.org</br>
+• <a href="https://status.furtainment.com">status.furtainment.com</a> | Furtainment Status</br>
 • status.furshows.com | Redirect</br>
 • status.furshows.org | Redirect</br>
 • support.furshows.com | Redirect</br>
