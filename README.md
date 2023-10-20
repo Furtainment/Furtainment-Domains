@@ -14,7 +14,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Subdomains:
 
-• blog.furtainment.com</br>
+• <a href="https://blog.furtainment.com">blog.furtainment.com</a></br>
 • press.furtainment.com</br>
 • investors.furtainment.com</br>
 • legal.furtainment.com</br>
