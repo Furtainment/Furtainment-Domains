@@ -570,3 +570,6 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Bots
 • <a href="https://furry.observer">furry.observer</a></br>
+
+# Servers
+• <a href="https://crittercluster.com">crittercluster.com</a></br>
