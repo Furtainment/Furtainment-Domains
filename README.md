@@ -561,12 +561,14 @@ Repository folders contain more infomation, scripts, and anything required for f
 # Url Shortners
 • <a href="https://fursho.ws">fursho.ws</a> | Private URL Shortener Service</br>
 • <a href="https://www.fur.tel">fur.tel</a> | Private URL Shortener Service</br>
+• vrver.se</br>
 
 # Software
 
 • viewerverse.com</br>
 • viewerverse.world</br>
-• vrver.se</br>
+• <a href="https://anthrotheatre.com">anthrotheatre.com</a> | Virtual Theatre</br>
+• <a href="https://anthrocinema.com">anthrocinema.com</a> | Virtual Cinema</br>
 
 # Bots
 • <a href="https://furry.observer">furry.observer</a></br>
