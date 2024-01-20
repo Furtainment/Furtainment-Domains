@@ -65,8 +65,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Subdomains by Country:
 
-• ac.furshows.com | Ascension Island Redirect</br>
-• ac.furshows.org | Ascension Island </br>
+• <a href="https://ac.furshows.com">ac.furshows.com</a> | Ascension Island Redirect</br>
+• <a href="https://ac.furshows.org">ac.furshows.org</a> | Ascension Island </br>
 • ad.furshows.com | Andorra Redirect</br>
 • ad.furshows.org | Andorra</br>
 • ae.furshows.com | United Arab Emirates Redirect</br>
