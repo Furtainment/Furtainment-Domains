@@ -67,7 +67,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 • <a href="https://ac.furshows.com">ac.furshows.com</a> | Ascension Island Redirect</br>
 • <a href="https://ac.furshows.org">ac.furshows.org</a> | Ascension Island </br>
-• ad.furshows.com | Andorra Redirect</br>
+• <a href="https://ad.furshows.com">ad.furshows.com</a> | Andorra Redirect</br>
 • ad.furshows.org | Andorra</br>
 • ae.furshows.com | United Arab Emirates Redirect</br>
 • ae.furshows.org | United Arab Emirates</br>
