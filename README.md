@@ -22,6 +22,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 • archive.furtainment.com</br>
 • login.furshows.com | Redirect</br>
 • login.furshows.org</br>
+• <a href="https://channel.furshows.com">channel.furshows.com</a> | Redirect</br>
+• <a href="https://channel.furshows.org">channel.furshows.org/a></br>
 • register.furshows.com | Redirect</br>
 • register.furshows.org</br>
 • dashboard.furshows.com | Redirect</br>
