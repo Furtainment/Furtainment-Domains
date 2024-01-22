@@ -74,7 +74,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://ae.furshows.com">ae.furshows.com</a> | United Arab Emirates Redirect</br>
 • <a href="https://ae.furshows.org">ae.furshows.org</a> | United Arab Emirates</br>
 • <a href="https://af.furshows.com">af.furshows.com</a> | Afghanistan Redirect</br>
-• af.furshows.org | Afghanistan</br>
+• <a href="https://af.furshows.org">af.furshows.org</a> | Afghanistan</br>
 • ag.furshows.com | Antigua and Barbuda Redirect</br>
 • ag.furshows.org | Antigua and Barbuda</br>
 • ai.furshows.com | Anguilla Redirect</br>
