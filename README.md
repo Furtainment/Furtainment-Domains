@@ -563,7 +563,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://www.kewllab.com">kewllab.com</a></br>
 
 # Url Shortners
-• <a href="https://fursho.ws">fursho.ws</a> | Private URL Shortener Service</br>
+• <a href="https://www.fursho.ws">fursho.ws</a> | Private URL Shortener Service</br>
 • <a href="https://www.fur.tel">fur.tel</a> | Private URL Shortener Service</br>
 • vrver.se</br>
 
