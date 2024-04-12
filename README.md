@@ -583,5 +583,5 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://anthrostage.com">anthrostage.com</a> | 3D Printed Stage</br>
 
 # Media
-• <a href="https://anthrowallpapers.com">anthrowallpaper.com</a> | Redirect</br>
+• <a href="https://anthrowallpapers.com">anthrowallpapers.com</a> | Redirect</br>
 • <a href="https://anthrowallpaper.com">anthrowallpaper.com</a></br>
