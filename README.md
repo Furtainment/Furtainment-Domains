@@ -510,12 +510,11 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 • glowraiser.com | Corporate</br>
 • glowraiser.org</br>
-• snackferret.com | Corporate</br>
-• snackferret.studio</br>
-• furportal.net</br>
+• <a href="https://snackferret.com">snackferret.com</a> | Corporate</br>
+• <a href="https://snackferret.studio">snackferret.studio</a></br>
 • furryshows.com | Redirect</br>
-• furshows.com | Corporate</br>
-• furshows.org</br>
+• <a href="https://furshows.com">furshows.com</a> | Corporate</br>
+• <a href="https://furshows.org">furshows.org</a></br>
 
 # Labefy Games Subsidiary:
 
