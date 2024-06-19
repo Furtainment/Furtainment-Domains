@@ -571,8 +571,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Software
 
-• viewerverse.com</br>
-• viewerverse.world</br>
+• <a href="https://viewerverse.com">viewerverse.com</a></br>
+• <a href="https://www.viewerverse.world">viewerverse.world</a></br>
 
 # Bots / AI
 • <a href="https://furry.observer">furry.observer</a> Kira </br>
