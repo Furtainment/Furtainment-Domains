@@ -574,8 +574,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 • viewerverse.com</br>
 • viewerverse.world</br>
 
-# Bots
-• <a href="https://furry.observer">furry.observer</a></br>
+# Bots / AI
+• <a href="https://furry.observer">furry.observer</a> Kira </br>
 
 # Servers
 • <a href="https://crittercluster.com">crittercluster.com</a></br>
