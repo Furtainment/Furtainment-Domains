@@ -561,6 +561,10 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://www.paradiserust.com">paradiserust.com</br>
 • <a href="https://www.tokyomaw.com">tokyomaw.com</br>
 
+# Alt Content
+• <a href="https://uwuvods.com">uwuvods.com</a> | Redirect</br>
+• <a href="https://uwuvod.com">uwuvod.com</a></br>
+
 # Lab
 • <a href="https://www.kewllab.com">kewllab.com</a></br>
 
