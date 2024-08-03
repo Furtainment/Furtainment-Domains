@@ -67,7 +67,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • status.fursho.ws</br>
 • support.fursho.ws</br>
 
-# Subdomains by Country:
+# Subdomain Redirects by Country:
 
 • <a href="https://ac.furshows.com">ac.furshows.com</a> | Ascension Island Redirect</br>
 • <a href="https://ac.furshows.org">ac.furshows.org</a> | Ascension Island </br>
@@ -247,8 +247,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 • jm.furshows.org | Jamaica</br>
 • jo.furshows.com | Jordan Redirect</br>
 • jo.furshows.org | Jordan</br>
-• jp.furshows.com | Japan Redirect</br>
-• jp.furshows.org | Japan</br>
+• <a href="https://jp.furshows.com">jp.furshows.com</a> | Japan Redirect</br>
+• <a href="https://jp.furshows.org">jp.furshows.org</a> | Japan Redirect</br>
 • ke.furshows.com | Kenya Redirect</br>
 • ke.furshows.org | Kenya</br>
 • kg.furshows.com | Kyrgyzstan Redirect</br>
