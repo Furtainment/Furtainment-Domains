@@ -538,15 +538,18 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://www.banjolia.com">banjolia.com</a></br>
 • <a href="https://www.blackbagbureau.com">blackbagbureau.com</a></br>
 • <a href="https://www.darkspecies.com">darkspecies.com</a></br>
-• <a href="https://www.gizmosduck.com">gizmosduck.com</a></br>
 • <a href="https://www.hammersmithmaiden.com">hammersmithmaiden.com</a></br>
-• <a href="https://www.santasteamer.com">santasteamer.com</a></br>
 • <a href="https://www.strawberrywarlord.com">strawberrywarlord.com</a></br>
 • <a href="https://www.paromorphs.com">paromorphs.com</a></br>
 • <a href="https://www.eleventhclergy.com">eleventhclergy.com</a></br>
 • <a href="https://www.wanderingcart.com">wanderingcart.com</a></br>
 • <a href="https://www.battleevolved.com">battleevolved.com</a></br>
 • <a href="https://www.defanse.com">defanse.com</a></br>
+
+# Kids Shows
+
+• <a href="https://www.gizmosduck.com">gizmosduck.com</a></br>
+• <a href="https://www.santasteamer.com">santasteamer.com</a></br>
 
 # Fruity Tails & Shows
 
