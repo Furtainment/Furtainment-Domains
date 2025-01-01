@@ -545,6 +545,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://www.wanderingcart.com">wanderingcart.com</a></br>
 • <a href="https://www.battleevolved.com">battleevolved.com</a></br>
 • <a href="https://www.defanse.com">defanse.com</a></br>
+• <a href="https://www.highwiresky.com">highwiresky.com</a> | Redirect</br>
+• <a href="https://www.highwireskys.com">highwireskys.com</a></br>
 
 # Kids Shows
 
