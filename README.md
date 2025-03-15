@@ -599,3 +599,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 # Media
 • <a href="https://anthrowallpapers.com">anthrowallpapers.com</a> | Redirect</br>
 • <a href="https://anthrowallpaper.com">anthrowallpaper.com</a></br>
+
+# Reserved Domains
+• <a href="https://personamagica.com">personamagica.com</a></br>
+
