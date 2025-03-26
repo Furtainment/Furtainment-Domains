@@ -17,6 +17,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 # Redirects:
 • <a href="https://furtain.com">furtain.com</a> | Redirect</br>
 • <a href="https://fur-tainment.com">fur-tainment.com</a> | Redirect</br>
+• <a href="https://furryshows.com">furryshows.com</a> | Redirect</br>
 
 # Subdomains:
 
@@ -519,7 +520,6 @@ Repository folders contain more infomation, scripts, and anything required for f
 • glowraiser.org</br>
 • <a href="https://snackferret.com">snackferret.com</a> | Corporate</br>
 • <a href="https://snackferret.studio">snackferret.studio</a></br>
-• furryshows.com | Redirect</br>
 • <a href="https://furshows.com">furshows.com</a> | Corporate</br>
 • <a href="https://furshows.org">furshows.org</a></br>
 
