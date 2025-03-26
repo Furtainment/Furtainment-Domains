@@ -70,8 +70,6 @@ Repository folders contain more infomation, scripts, and anything required for f
 • marketplace.furshows.org</br>
 • kids.furshows.com | Redirect</br>
 • kids.furshows.org | Redirect</br>
-• status.fursho.ws</br>
-• support.fursho.ws</br>
 
 # Subdomain Redirects by Country:
 
