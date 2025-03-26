@@ -14,6 +14,10 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://anthrocommunity.com">anthrocommunity.com</a> | Furtainment Community</br>
 • <a href="https://fsh.email">fsh.email</a> | Internal Team Email</br>
 
+# Redirects:
+• <a href="https://furtain.com">furtain.com</a> | Redirect</br>
+• <a href="https://fur-tainment.com">fur-tainment.com</a> | Redirect</br>
+
 # Subdomains:
 
 • <a href="https://watch.furtainment.com">watch.furtainment.com</a></br>
