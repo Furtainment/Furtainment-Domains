@@ -84,9 +84,9 @@ Repository folders contain more infomation, scripts, and anything required for f
 • ag.furshows.com | Antigua and Barbuda Redirect</br>
 • ag.furshows.org | Antigua and Barbuda</br>
 • ai.furshows.com | Anguilla Redirect</br>
-• ai.furshows.org | Anguilla</br>
+• <a href="https://ai.furshows.org">ai.furshows.org</a> | Anguilla Redirect</br>
 • al.furshows.com | Albania Redirect</br>
-• al.furshows.org | Albania</br>
+• <a href="https://al.furshows.org">al.furshows.org</a> | Albania Redirect</br>
 • am.furshows.com | Armenia Redirect</br>
 • am.furshows.org | Armenia</br>
 • ar.furshows.com | Argentina Redirect</br>
