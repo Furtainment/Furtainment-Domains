@@ -33,7 +33,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://channel.furshows.com">channel.furshows.com</a> | Redirect</br>
 • <a href="https://channel.furshows.org">channel.furshows.org</a></br>
 • register.furshows.com | Redirect</br>
-• register.furshows.org</br>
+• <a href="https://register.furshows.org">register.furshows.org</a> | Redirect</br>
 • dashboard.furshows.com | Redirect</br>
 • dashboard.furshows.org</br>
 • partner.furshows.com</br>
@@ -69,7 +69,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • marketplace.furshows.com | Redirect</br>
 • marketplace.furshows.org</br>
 • kids.furshows.com | Redirect</br>
-• kids.furshows.org | Redirect</br>
+• <a href="https://kids.furshows.org">kids.furshows.org</a> | Redirect</br>
 
 # Subdomain Redirects by Country:
 
