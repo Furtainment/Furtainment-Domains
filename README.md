@@ -29,7 +29,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • jobs.furtainment.com</br>
 • archive.furtainment.com</br>
 • login.furshows.com | Redirect</br>
-• login.furshows.org</br>
+• <a href="https://login.furshows.org">login.furshows.org</a> | Redirect</br>l
 • <a href="https://channel.furshows.com">channel.furshows.com</a> | Redirect</br>
 • <a href="https://channel.furshows.org">channel.furshows.org</a></br>
 • register.furshows.com | Redirect</br>
