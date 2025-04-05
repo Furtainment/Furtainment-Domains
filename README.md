@@ -37,9 +37,9 @@ Repository folders contain more infomation, scripts, and anything required for f
 • dashboard.furshows.com | Redirect</br>
 • <a href="https://dashboard.furshows.org">dashboard.furshows.org</a> | Redirect</br>
 • partner.furshows.com</br>
+• partner.furshows.org | Redirect</br>
 • opensource.furshows.org | Redirect</br>
 • opensource.furshows.com</br>
-• partner.furshows.org | Redirect</br>
 • blog.furshows.com</br>
 • blog.furshows.org | Redirect</br>
 • api.furshows.com | Redirect</br>
