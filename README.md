@@ -47,7 +47,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • investor.furshows.com</br>
 • investor.furshows.org | Redirect</br>
 • search.furshows.com | Redirect</br>
-• search.furshows.org</br>
+• <a href="https://search.furshows.org">search.furshows.org</a> | Redirect</br>
 • gallery.furshows.com | Redirect</br>
 • store.furshows.com | Redirect</br>
 • shop.furshows.com | Redirect</br>
