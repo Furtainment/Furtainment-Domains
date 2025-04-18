@@ -20,6 +20,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Community:
 • <a href="https://furshows.org/community/">furshows.org/community/</a> | Information</br>
+• <a href="https://furshows.org/community/stats/">furshows.org/community/stats/</a> | Statistics</br>
 • <a href="https://anthrocommunity.com">anthrocommunity.com</a> | Furtainment Community</br>
 
 # Subdomains:
