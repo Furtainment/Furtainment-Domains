@@ -19,7 +19,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://furryshows.com">furryshows.com</a> | Redirect</br>
 
 # Community:
-• <a href="https://furshows.org/community/">furshows.org/community/</a></br>
+• <a href="https://furshows.org/community/">furshows.org/community/</a> | Information</br>
 • <a href="https://anthrocommunity.com">anthrocommunity.com</a> | Furtainment Community</br>
 
 # Subdomains:
