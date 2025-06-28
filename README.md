@@ -1,7 +1,8 @@
-# Furtainment-Domains
-## A Guide to the Furtainment Network
-
-A list of Furtainment owned and operated domain names.
+<h1><p align="center">Furtainment Domains</p></h1>
+<h3><p align="center">
+  <b>A Guide to the Furtainment Network</b></br></br>
+  <b>A list of Furtainment owned and operated domain names</b>
+</p></h3></br>
 
 ![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)
 
