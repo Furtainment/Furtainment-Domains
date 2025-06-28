@@ -577,7 +577,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://www.distortedworld.com">distortedworld.com</a> | Redirect</br>
 • <a href="https://www.distortedworlds.com">distortedworlds.com</br>
 
-# Alt Content
+# Channels
 • <a href="https://uwuvods.com">uwuvods.com</a> | Redirect</br>
 • <a href="https://uwuvod.com">uwuvod.com</a></br>
 
