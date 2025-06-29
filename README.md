@@ -4,6 +4,8 @@
   <b>A list of Furtainment owned and operated domain names</b>
 </p></h3></br>
 
+<p align="center">Please make sure to read our <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/NOTICE">NOTICE</a> before using any logos or content from this repository.</p></br>
+
 ![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)
 
 Not all domains or subdomains are active or have a website, if that is the case they are listed here to show they are planned to be rolled out.
