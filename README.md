@@ -18,10 +18,10 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://fsh.email">fsh.email</a> | Internal Team Email</br>
 
 # Redirects:
-• <a href="https://furtain.com">furtain.com</a> | Redirect</br>
-• <a href="https://fur-tainment.com">fur-tainment.com</a> | Redirect</br>
-• <a href="https://furryshows.com">furryshows.com</a> | Redirect</br>
-• <a href="https://anthroshows.com">anthroshows.com</a> | Redirect</br>
+• <a href="https://furtain.com">furtain.com</a> | Redirect to furtainment.com</br>
+• <a href="https://fur-tainment.com">fur-tainment.com</a> | Redirect to furtainment.com</br>
+• <a href="https://furryshows.com">furryshows.com</a> | Redirect to furshows.org</br>
+• <a href="https://anthroshows.com">anthroshows.com</a> | Redirect to furshows.org</br>
 
 # Community:
 • <a href="https://anthrocommunity.com">anthrocommunity.com</a> | Furtainment Community</br>
