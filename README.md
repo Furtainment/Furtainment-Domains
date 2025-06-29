@@ -21,6 +21,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://furtain.com">furtain.com</a> | Redirect</br>
 • <a href="https://fur-tainment.com">fur-tainment.com</a> | Redirect</br>
 • <a href="https://furryshows.com">furryshows.com</a> | Redirect</br>
+• <a href="https://anthroshows.com">anthroshows.com</a> | Redirect</br>
 
 # Community:
 • <a href="https://anthrocommunity.com">anthrocommunity.com</a> | Furtainment Community</br>
