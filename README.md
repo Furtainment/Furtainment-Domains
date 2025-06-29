@@ -13,7 +13,7 @@ This document exists to ensure future 3rd party scripts, programs, and apps are 
 Repository folders contain more infomation, scripts, and anything required for future developers creating apps, scripts, and programs.
 
 • <a href="https://furtainment.com">furtainment.com</a></br>
-• <a href="https://furtainment.com/json/index.json">https://furtainment.com/json/index.json</a> Structured Data Index</br>
+• <a href="https://furtainment.com/json/index.json">https://furtainment.com/json/index.json</a> | Structured Data Index</br>
 • <a href="https://watch.furtainment.com">watch.furtainment.com</a> | Furtainment Channel Index</br>
 • <a href="https://anthrostore.com">anthrostore.com</a> | Furtainment Store</br>
 • <a href="https://fsh.email">fsh.email</a> | Internal Team Email</br>
