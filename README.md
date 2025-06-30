@@ -586,8 +586,10 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://www.distortedworlds.com">distortedworlds.com</br>
 
 # Channels
+• <a href="https://furshows.com">furshows.com</a> | Corporate</br>
+• <a href="https://furshows.org">furshows.org</a></br>
 • <a href="https://uwuvods.com">uwuvods.com</a> | Redirect</br>
-• <a href="https://uwuvod.com">uwuvod.com</a></br>
+• <a href="https://uwuvod.com">uwuvod.com</a> | Redirect</br>
 
 # Lab
 • <a href="https://www.kewllab.com">kewllab.com</a></br>
