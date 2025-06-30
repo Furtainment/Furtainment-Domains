@@ -533,9 +533,6 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://snackferret.studio">snackferret.studio</a></br>
 • <a href="https://furshows.com">furshows.com</a> | Corporate</br>
 • <a href="https://furshows.org">furshows.org</a></br>
-
-# Labefy Games Subsidiary:
-
 • <a href="https://labefy.com">labefy.com</a> | Corporate</br>
 • <a href="https://labefygames.com">labefygames.com</a></br>
 
