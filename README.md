@@ -27,6 +27,9 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://anthroshow.com">anthroshow.com</a> | Redirect to furshows.org</br>
 • <a href="https://anthroshows.com">anthroshows.com</a> | Redirect to furshows.org</br>
 
+# Characters:
+• <a href="https://fexfossa.com">fexfossa.com</a> | Fex Fossa</br>
+
 # Community:
 • <a href="https://anthrocommunity.com">anthrocommunity.com</a> | Furtainment Community</br>
 • <a href="https://anthrocommunity.com">anthrocommunity.com/stats/</a> | Furtainment Community Statistics</br>
