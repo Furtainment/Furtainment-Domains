@@ -1,3 +1,6 @@
+
+# Subdomain Redirects by Country:
+
 • <a href="https://ac.furtainment.com">ac.furtainment.com</a> | Ascension Island Redirect</br>
 • <a href="https://ad.furtainment.com">ad.furtainment.com</a> | Andorra Redirect</br>
 • <a href="https://ae.furtainment.com">ae.furtainment.com</a> | United Arab Emirates Redirect</br>
