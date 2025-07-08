@@ -88,6 +88,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 # Subdomain Redirects by Country:
 
 • <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/subdomains/furtainment.com/README.md">furtainment.com</a></br>
+• <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/subdomains/furshows.com/README.md">furshows.com</a></br>
+• <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/subdomains/furshows.org/README.md">furshows.org</a></br>
 
 • <a href="https://ac.furshows.com">ac.furshows.com</a> | Ascension Island Redirect</br>
 • <a href="https://ac.furshows.org">ac.furshows.org</a> | Ascension Island Redirect</br>
