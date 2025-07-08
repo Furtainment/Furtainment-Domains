@@ -589,9 +589,11 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Channels
 • <a href="https://furshows.com">furshows.com</a> | Corporate</br>
-• <a href="https://furshows.org">furshows.org</a></br>
+• <a href="https://furshows.org">furshows.org</a> | Channel</br>
 • <a href="https://uwuvods.com">uwuvods.com</a> | Redirect</br>
-• <a href="https://uwuvod.com">uwuvod.com</a> | Redirect</br>
+• <a href="https://uwuvod.com">uwuvod.com</a> | Corporate</br>
+• <a href="https://uwuvods.com">uwuvods.org</a> | Redirect</br>
+• <a href="https://uwuvod.com">uwuvod.org</a> | Channel</br>
 
 # Lab
 • <a href="https://www.kewllab.com">kewllab.com</a></br>
