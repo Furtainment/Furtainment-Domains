@@ -1,7 +1,8 @@
 <h1><p align="center">Furtainment Domains</p></h1>
 <h3><p align="center">
   <b>A Guide to the Furtainment Network</b></br></br>
-  <b>A list of Furtainment owned and operated domain names</b>
+  <b>A list of Furtainment owned and operated domain names</b></br></br>
+  <b>Come entertain the world with us!</b>
 </p></h3></br>
 
 <p align="center">Please make sure to read our <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/NOTICE">NOTICE</a> before using any logos or content from this repository.</p></br>
