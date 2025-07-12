@@ -551,8 +551,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Labefy:
 
-• <a href="https://labefy.com">labefy.com</a> | Corporate</br>
-• <a href="https://labefygames.com">labefygames.com</a></br>
+• <a href="https://labefy.com">labefy.com</a> <a href="https://github.com/Labefy">@Labefy</a> | Corporate</br>
+• <a href="https://labefygames.com">labefygames.com</a> <a href="https://github.com/LabefyGames">@LabefyGames</a></br>
 
 # Games:
 
