@@ -607,6 +607,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://uwuvod.com">uwuvod.com</a> | Corporate</br>
 • <a href="https://uwuvods.com">uwuvods.org</a> | Redirect</br>
 • <a href="https://uwuvod.com">uwuvod.org</a> | Channel</br>
+• <a href="https://fossalab.org">fossalab.org</a> | Redirect</br>
+• <a href="https://fossalabs.org">fossalabs.org</a> | Channel</br>
 
 # Lab
 • <a href="https://www.kewllab.com">kewllab.com</a></br>
