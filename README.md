@@ -541,6 +541,13 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://furshows.org">furshows.org</a></br>
 • <a href="https://labefy.com">labefy.com</a> | Corporate</br>
 • <a href="https://labefygames.com">labefygames.com</a></br>
+• <a href="https://fossalabs.com">fossalabs.com</a> | Corporate</br>
+• <a href="https://fossalab.com">fossalab.com</a>| Redirect</br>
+
+# Education:
+
+• <a href="https://fossalabs.com">fossalabs.com</a> | Corporate</br>
+• <a href="https://fossalab.com">fossalab.com</a>| Redirect</br>
 
 # Labefy:
 
