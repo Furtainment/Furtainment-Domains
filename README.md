@@ -631,6 +631,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://crittercluster.com">crittercluster.com</a></br>
 
 # Projects
+<p>Projects are Opensouce developed under SnackFerret Studio</p>
+
 • <a href="https://anthrotheatre.com">anthrotheatre.com</a> | Virtual Theatre</br>
 • <a href="https://anthrocinema.com">anthrocinema.com</a> | Virtual Cinema</br>
 • <a href="https://anthrostage.com">anthrostage.com</a> | 3D Printed Stage</br>
