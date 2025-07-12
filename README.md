@@ -542,6 +542,11 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://labefy.com">labefy.com</a> | Corporate</br>
 • <a href="https://labefygames.com">labefygames.com</a></br>
 
+# Labefy:
+
+• <a href="https://labefy.com">labefy.com</a> | Corporate</br>
+• <a href="https://labefygames.com">labefygames.com</a></br>
+
 # Games:
 
 • <a href="https://www.banjolia.com">banjolia.com</a></br>
