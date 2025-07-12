@@ -634,6 +634,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://anthrotheatre.com">anthrotheatre.com</a> | Virtual Theatre</br>
 • <a href="https://anthrocinema.com">anthrocinema.com</a> | Virtual Cinema</br>
 • <a href="https://anthrostage.com">anthrostage.com</a> | 3D Printed Stage</br>
+• <a href="https://github.com/SnackFerret/Anthro-Stage">https://github.com/SnackFerret/Anthro-Stage</a> | Project</br>
 
 # Media
 • <a href="https://anthrowallpapers.com">anthrowallpapers.com</a> | Redirect</br>
