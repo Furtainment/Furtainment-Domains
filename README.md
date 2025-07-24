@@ -18,9 +18,9 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://furtainment.com">furtainment.com</a></br>
 • <a href="https://furtainment.com/json/index.json">furtainment.com/json/index.json</a> | <a href="https://github.com/Furtainment/Furtainment-Domains/wiki/Data-Index">Data Index</a> at Github Wiki</br>
 • <a href="https://watch.furtainment.com">watch.furtainment.com</a> | <a href="https://github.com/Furtainment/Furtainment-Domains/wiki/Channel-Index">Channel Index</a> at Github Wiki</br>
-• <a href="https://anthroinfo.com">anthroinfo.com</a> | Furtainment Wiki</br>
 • <a href="https://feeds.furtainment.com">feeds.furtainment.com</a> | Social Feeds Index</a></br>
 • <a href="https://anthrostore.com">anthrostore.com</a> | Furtainment Store</br>
+• <a href="https://anthroinfo.com">anthroinfo.com</a> | Furtainment Wiki</br>
 • <a href="https://fsh.email">fsh.email</a> | Internal Team Email</br>
 
 # Redirects:
