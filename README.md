@@ -585,6 +585,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://www.santasteamer.com">santasteamer.com</a></br>
 • <a href="https://www.agemoon.com">agemoon.com</a></br>
 • <a href="https://piratemelody.com">piratemelody.com</a></br>
+• <a href="https://piratemelodys.com">piratemelodys.com</a> | Redirect</br>
 
 # Fruity Tails & Shows
 
