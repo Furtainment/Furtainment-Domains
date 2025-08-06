@@ -549,6 +549,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 • <a href="https://fossalabs.com">fossalabs.com</a> | Corporate</br>
 • <a href="https://fossalab.com">fossalab.com</a>| Redirect</br>
+• <a href="https://www.paromorphs.com">paromorphs.com</a></br>
 
 # Labefy:
 
@@ -571,7 +572,6 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://www.darkspecies.com">darkspecies.com</a></br>
 • <a href="https://www.hammersmithmaiden.com">hammersmithmaiden.com</a></br>
 • <a href="https://www.strawberrywarlord.com">strawberrywarlord.com</a></br>
-• <a href="https://www.paromorphs.com">paromorphs.com</a></br>
 • <a href="https://www.eleventhclergy.com">eleventhclergy.com</a></br>
 • <a href="https://www.wanderingcart.com">wanderingcart.com</a></br>
 • <a href="https://www.battleevolved.com">battleevolved.com</a></br>
@@ -624,6 +624,9 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Software
 
+• <a href="https://vreats.com">vreats.com</a></br>
+• <a href="https://anthrotab.com">anthrotab.com</a></br>
+• <a href="https://asmrworlds.com">asmrworlds.com</a></br>
 • <a href="https://viewerverse.com">viewerverse.com</a></br>
 • <a href="https://www.viewerverse.world">viewerverse.world</a></br>
 
