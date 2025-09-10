@@ -32,6 +32,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://anthroshows.com">anthroshows.com</a> | Redirect to furshows.org</br>
 
 # Characters:
+• <a href="https://lyallhopkins.com">lyallhopkins.com</a> | Lyall Hopkins</br>
 • <a href="https://fexfossa.com">fexfossa.com</a> | Fex Fossa</br>
 
 # Community:
