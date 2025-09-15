@@ -32,8 +32,9 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://anthroshows.com">anthroshows.com</a> | Redirect to furshows.org</br>
 
 # Characters:
-• <a href="https://lyallhopkins.com">lyallhopkins.com</a> | Lyall Hopkins</br>
-• <a href="https://fexfossa.com">fexfossa.com</a> | Fex Fossa</br>
+• <a href="https://github.com/Furtainment/Furtainment-Domains/tree/main/characters/originals">Originals</a></br>
+• <a href="https://github.com/Furtainment/Furtainment-Domains/tree/main/characters/strawberry-warlord">Strawberry Warlord</a></br>
+• <a href="https://github.com/Furtainment/Furtainment-Domains/tree/main/characters/banjolia">Banjolia</a></br>
 
 # Community:
 • <a href="https://anthrocommunity.com">anthrocommunity.com</a> | Furtainment Community</br>
