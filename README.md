@@ -22,6 +22,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://feeds.furtainment.com">feeds.furtainment.com</a> | Social Feeds Index</a></br>
 • <a href="https://anthrostore.com">anthrostore.com</a> | Furtainment Store</br>
 • <a href="https://anthroinfo.com">anthroinfo.com</a> | Furtainment Wiki</br>
+• <a href="https://fustachio.com">fustachio.com</a> | Ringmaster Fustachio</br>
 • <a href="https://fsh.email">fsh.email</a> | Internal Team Email</br>
 • <a href="https://youraccountissuspended.com">youraccountissuspended.com</a> | Appeals Portal</br>
 
