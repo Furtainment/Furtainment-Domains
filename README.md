@@ -25,6 +25,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://fustachio.com">fustachio.com</a> | Ringmaster Fustachio</br>
 • <a href="https://fsh.email">fsh.email</a> | Internal Team Email</br>
 • <a href="https://youraccountissuspended.com">youraccountissuspended.com</a> | Appeals Portal</br>
+• <a href="https://anthrounion.org">anthrounion.org</a> | Independent, Furtainment Union</br>
 
 # Redirects:
 • <a href="https://furtain.com">furtain.com</a> | Redirect to furtainment.com</br>
