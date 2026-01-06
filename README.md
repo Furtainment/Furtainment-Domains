@@ -634,7 +634,6 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://anthroengine.com">anthroengine.com</a></br>
 • <a href="https://anthroforge.com">anthroforge.com</a></br>
 • <a href="https://vreats.com">vreats.com</a></br>
-• <a href="https://anthrotab.com">anthrotab.com</a></br>
 • <a href="https://asmrworlds.com">asmrworlds.com</a></br>
 • <a href="https://viewerverse.com">viewerverse.com</a></br>
 • <a href="https://www.viewerverse.world">viewerverse.world</a></br>
