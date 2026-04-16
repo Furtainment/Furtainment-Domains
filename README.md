@@ -619,6 +619,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://uwuvod.com">uwuvod.org</a> | Channel</br>
 • <a href="https://fossalab.org">fossalab.org</a> | Redirect</br>
 • <a href="https://fossalabs.org">fossalabs.org</a> | Channel</br>
+• <a href="https://asmrworlds.com">asmrworlds.com</a> | Redirect</br>
+• <a href="https://asmrworlds.org">asmrworlds.org</a> | Channel</br>
 
 # Lab
 • <a href="https://www.kewllab.com">kewllab.com</a></br>
@@ -634,7 +636,6 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://anthroengine.com">anthroengine.com</a></br>
 • <a href="https://anthroforge.com">anthroforge.com</a></br>
 • <a href="https://vreats.com">vreats.com</a></br>
-• <a href="https://asmrworlds.com">asmrworlds.com</a></br>
 • <a href="https://viewerverse.com">viewerverse.com</a></br>
 • <a href="https://www.viewerverse.world">viewerverse.world</a></br>
 • <a href="https://github.com/Furtainment/Virtual-TVs">github.com/Furtainment/Virtual-TVs</a></br>
