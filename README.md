@@ -660,6 +660,10 @@ Repository folders contain more infomation, scripts, and anything required for f
 # Reserved Domains
 • <a href="https://personamagica.com">personamagica.com</a></br>
 
-# [License](LICENSE.md)
-This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+# Licenses
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). 
 https://creativecommons.org/licenses/by/4.0/
+
+This software is licensed under an MIT License. 
+https://mit-license.org/
