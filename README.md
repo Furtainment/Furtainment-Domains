@@ -15,7 +15,7 @@ This repository is a Guide to the Furtainment Network; not all domains or subdom
 
 This document exists to ensure future 3rd party scripts, programs, and apps are able to function correctly and to enable greater trust of these domains in our developer ecosystem or on the wider web. Redirects are listed here to ensure mistyped traffic continues to flow to the correct domain extension.
 
-Repository folders contain more information, scripts, and anything required for future developers creating apps, scripts, and programs.
+Software repository folders contain more information, scripts, and anything required for future developers creating apps, scripts, and programs.
 
 • <a href="https://furtainment.com">furtainment.com</a></br>
 • <a href="https://furtainment.com/json/index.json">furtainment.com/json/index.json</a> | <a href="https://github.com/Furtainment/Furtainment-Domains/wiki/Data-Index">Data Index</a> at Github Wiki</br>
