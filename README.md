@@ -40,9 +40,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://github.com/Furtainment/Furtainment-Domains/tree/main/characters/strawberry-warlord">Strawberry Warlord</a></br>
 • <a href="https://github.com/Furtainment/Furtainment-Domains/tree/main/characters/banjolia">Banjolia</a></br>
 
-# Community:
-• <a href="https://anthrocommunity.com">anthrocommunity.com</a> | Furtainment Community</br>
-• <a href="https://anthrocommunity.com">anthrocommunity.com/stats/</a> | Furtainment Community Statistics</br>
+# Community
+- [community](community/)
 
 # Subdomains:
 
