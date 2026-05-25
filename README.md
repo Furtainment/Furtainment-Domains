@@ -646,7 +646,7 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://crittercluster.com">crittercluster.com</a></br>
 
 # Projects
-<p>Projects are Opensouce developed under SnackFerret Studio</p>
+<p>Projects are OpenSource developed under SnackFerret Studio</p>
 
 • <a href="https://anthrotheatre.com">anthrotheatre.com</a> | Virtual Theatre</br>
 • <a href="https://anthrocinema.com">anthrocinema.com</a> | Virtual Cinema</br>
@@ -662,8 +662,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 
 # Licenses
 
-This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). 
-https://creativecommons.org/licenses/by/4.0/
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+- https://creativecommons.org/licenses/by/4.0/
 
-This software is licensed under an MIT License. 
-https://mit-license.org/
+This software is licensed under an MIT License.
+- https://mit-license.org/
