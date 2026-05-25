@@ -9,11 +9,11 @@
 
 ![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)
 
-Not all domains or subdomains are active or have a website, if that is the case they are listed here to show they are planned to be rolled out.
+Not all domains or subdomains are active or have a website; if that is the case, they are listed here to show they are planned to be rolled out.
 
 This document exists to ensure future 3rd party scripts, programs, and apps are able to function correctly and to enable greater trust of these domains in our developer ecosystem or on the wider web. Redirects are listed here to ensure mistyped traffic continues to flow to the correct domain extension.
 
-Repository folders contain more infomation, scripts, and anything required for future developers creating apps, scripts, and programs.
+Repository folders contain more information, scripts, and anything required for future developers creating apps, scripts, and programs.
 
 • <a href="https://furtainment.com">furtainment.com</a></br>
 • <a href="https://furtainment.com/json/index.json">furtainment.com/json/index.json</a> | <a href="https://github.com/Furtainment/Furtainment-Domains/wiki/Data-Index">Data Index</a> at Github Wiki</br>
@@ -661,6 +661,8 @@ Repository folders contain more infomation, scripts, and anything required for f
 • <a href="https://personamagica.com">personamagica.com</a></br>
 
 # Licenses
+
+Please make sure to read our <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/NOTICE">NOTICE</a> before using any logos or content from this repository.
 
 This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 - https://creativecommons.org/licenses/by/4.0/
