@@ -5,7 +5,7 @@
   <b>Come entertain the world with us!</b>
 </p></h3></br>
 
-<p align="center">Please make sure to read our <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/NOTICE">NOTICE</a> before using any logos or content from this repository.</p></br>
+<p align="center">Please make sure to read our <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/notice.md">NOTICE</a> before using any logos or content from this repository.</p></br>
 
 ![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)
 
@@ -662,7 +662,7 @@ Repository folders contain more information, scripts, and anything required for 
 
 # Licenses
 
-Please make sure to read our <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/NOTICE">NOTICE</a> before using any logos or content from this repository.
+Please make sure to read our <a href="https://github.com/Furtainment/Furtainment-Domains/blob/main/notice.md">NOTICE</a> before using any logos or content from this repository.
 
 This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 - https://creativecommons.org/licenses/by/4.0/
