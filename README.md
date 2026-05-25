@@ -9,9 +9,9 @@
 
 ![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)
 
-# About
+# About:
 
-Not all domains or subdomains are active or have a website; if that is the case, they are listed here to show they are planned to be rolled out.
+This repository is a Guide to the Furtainment Network; not all domains or subdomains are active or have a website; if that is the case, they are listed here to indicate they are planned for rollout.
 
 This document exists to ensure future 3rd party scripts, programs, and apps are able to function correctly and to enable greater trust of these domains in our developer ecosystem or on the wider web. Redirects are listed here to ensure mistyped traffic continues to flow to the correct domain extension.
 
