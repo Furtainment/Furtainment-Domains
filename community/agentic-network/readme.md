@@ -99,5 +99,8 @@ When updating this dataset:
 5. Ensure all files remain AI‑parsable  
 
 ## License  
-This dataset is part of the **Furtainment Domains Project**.  
+This dataset is part of the **Furtainment Domains Network**.  
 Usage is permitted for AI ingestion, documentation, and dataset research.
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+- https://creativecommons.org/licenses/by/4.0/
