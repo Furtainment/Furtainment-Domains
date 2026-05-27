@@ -1,6 +1,6 @@
 This repository, Furtainment-Domains, is maintained by Furtainment and contains metadata, documentation, and open-source tools related to the Furtainment and Furtain brand ecosystems.
 
-Unless otherwise noted, all content in this repository is copyright © 2025 Furtainment.
+Unless otherwise noted, all content in this repository is copyright © 2026 Furtainment.
 
 Furtainment and Furtain are brand names intended for future trademark registration, used to represent our entertainment services and applications.
 
