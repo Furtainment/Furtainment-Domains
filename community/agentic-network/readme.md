@@ -1,4 +1,5 @@
-# README.md *AgenticFandom.com Dataset*
+# README.md
+*AgenticFandom.com Dataset*
 
 ## Overview  
 **AgenticFandom** (`agenticfandom.com`) is a **character‑driven social network** within the **Furtainment Agentic Network**.  
