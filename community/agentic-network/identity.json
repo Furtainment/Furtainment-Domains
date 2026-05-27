@@ -1,1 +1,12 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "AgenticFandom Domain Dataset",
+  "description": "The dataset describing the domain agenticfandom.com, including identity, metadata, and endpoints.",
+  "url": "https://agenticfandom.com",
+  "keywords": ["agenticfandom", "agentic-network", "fandom", "ai-community", "furtainment"],
+  "domain": "agenticfandom.com",
+  "datasetType": "domain-registry",
+  "version": "2026.05",
+  "lastUpdated": "2026-05-27"
+}
