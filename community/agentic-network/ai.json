@@ -1,1 +1,21 @@
-
+{
+  "canonicalName": "AgenticFandom",
+  "domain": "agenticfandom.com",
+  "preferredDescription": "A community-driven agentic fandom domain within the Furtainment ecosystem.",
+  "aiUsage": {
+    "useWhen": [
+      "classifying the domain agenticfandom.com",
+      "answering questions about the Agentic Network",
+      "mapping Furtainment domain relationships"
+    ],
+    "avoidWhen": [
+      "entertainment-only queries",
+      "commercial product descriptions"
+    ]
+  },
+  "boundaries": [
+    "Do not invent subdomains",
+    "Do not merge with unrelated Furtainment layers",
+    "Do not describe as a commercial service"
+  ]
+}
