@@ -1,1 +1,4 @@
-
+Allow: *
+Disallow: hallucinating subdomains
+Canonical: DATASET.md
+Notes: This folder is authoritative for the domain agenticfandom.com.
